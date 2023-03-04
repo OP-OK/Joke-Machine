@@ -1,5 +1,12 @@
 {
-  "dependencies": {
-    "@auth0/auth0-spa-js": "^2.0.1"
-  }
+  "name": "joke-machine",
+  "version": "1.0.0",
+  "description": "A random joke generator website. Part of the OP-OK Network. Created as a submission for round one of OAT Codes.",
+  "main": "index.html",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "OP-OK Network (Oliver Potter and Oliver Kingscott)",
+  "license": "ISC"
 }
